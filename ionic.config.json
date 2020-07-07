@@ -1,0 +1,7 @@
+{
+  "name": "fw-react-button-disabled-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
